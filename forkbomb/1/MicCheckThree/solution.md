@@ -1,4 +1,5 @@
 в данной таске целая группа проверок через стандартный if - их все нужно пройти, чтобы получить флаг
 в итоге получим - "333gogog0gog0g0g0"
 ТАСКА РЕШЕНА
-![alt text](image.png)
+
+<img width="872" height="575" alt="2025-11-12_22-01-28" src="https://github.com/user-attachments/assets/7cf9208a-0ef6-47cf-a6d2-7e549258f391" />
