@@ -3,6 +3,6 @@
 затем умноженная на 4 длина строки сравнивается с первым элментом введенной строки, т.е. с элементом "4", код ASCII которого 52, а в пункте 4 мы видим еще строку на 5 символов и при всем при этом 13 * 4 = 52, нетрудно догодаться,
 что "4_pointskomne" - это флаг
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d18a1e9-39cb-42d5-af5f-5fb0ccb6a549" />
+<img width="1246" height="686" alt="image" src="https://github.com/user-attachments/assets/1f06c718-c075-4f6b-8d74-87da586db5db" />
 
 ТАСКА РЕШЕНА
