@@ -1,0 +1,1 @@
+When you run it, it waits for several lines of text (finish with Ctrl-D on Linux or Ctrl-Z on Windows). Flag is correct strings written together.
